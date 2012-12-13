@@ -20,11 +20,11 @@ Pass = backup
 
 Screenshot 1: Das Programmfenster vor dem Start des Backups
 
-![Screenshot 1](https://github.com/downloads/2quader/2qBackup/screenshot_1.png)
+![Screenshot 1](http://embed.githubdl.bitendlager.tk/2qBackup/screenshot_1.png)
 
 Screenshot 2: Das Programmfenster nach dem Backup
 
-![Screenshot 2](https://github.com/downloads/2quader/2qBackup/screenshot_2.png)
+![Screenshot 2](http://embed.githubdl.bitendlager.tk/2qBackup/screenshot_2.png)
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
