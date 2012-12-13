@@ -28,4 +28,4 @@ Screenshot 2: Das Programmfenster nach dem Backup
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
-Kurzform: webBkmx steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
+Kurzform: 2qBackup steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
