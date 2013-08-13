@@ -16,16 +16,6 @@ User = backup
 Pass = backup
 ```
 
-# Screenshots
-
-Screenshot 1: Das Programmfenster vor dem Start des Backups
-
-![Screenshot 1](http://embed.githubdl.bitendlager.tk/2qBackup/screenshot_1.png)
-
-Screenshot 2: Das Programmfenster nach dem Backup
-
-![Screenshot 2](http://embed.githubdl.bitendlager.tk/2qBackup/screenshot_2.png)
-
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
 Kurzform: 2qBackup steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
